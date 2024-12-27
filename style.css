@@ -1,0 +1,15 @@
+.heading{
+    text-align: center;
+}
+.container1{
+    background-color: rgb(162, 213, 162);
+    height: 120px;
+    width: 100%;
+}
+.logo{
+    height:120px;
+    width: 120px;
+}
+.text-container{
+    margin-bottom: 1300px;
+}
